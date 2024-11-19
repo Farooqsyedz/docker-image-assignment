@@ -11,5 +11,5 @@ This assignment demonstrates pulling Docker images from Docker Hub.
 - mysql
 
 ## Screenshot
-![Screenshot](docker-image-assignment/Screenshot 2024-11-11 220104.png)
+![Screenshot](docker-image-assignment\Screenshot 2024-11-19 175616.png)
 
