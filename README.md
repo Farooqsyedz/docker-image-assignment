@@ -9,7 +9,7 @@ This assignment demonstrates pulling Docker images from Docker Hub.
 - alpine
 - ubuntu
 - mysql
-
+docker pull memcached
 ## Screenshot
 ![Screenshot](docker-image-assignment\Screenshot 2024-11-19 175616.png)
 
